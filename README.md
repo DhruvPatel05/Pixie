@@ -32,7 +32,7 @@ The app allows users to generate beautiful AI-powered images with different visu
 
 ### Home Screen
 
-<img src="IMG_7572.PNG" width="250"/>
+<img src="Pixie/Screenshots/IMG_7572.PNG" width="250"/>
 
 ---
 
