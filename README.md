@@ -38,20 +38,20 @@ The app allows users to generate beautiful AI-powered images with different visu
 
 ### Image Generation
 
-<img src="Screenshots/IMG_7571.PNG" width="250"/>
+<img src="Pixie/Screenshots/IMG_7571.PNG" width="250"/>
 
 ---
 
 ### AI Generated Results
 
-<img src="Screenshots/IMG_7573.PNG" width="250"/>
-<img src="Screenshots/IMG_7574.PNG" width="250"/>
+<img src="Pixie/Screenshots/IMG_7573.PNG" width="250"/>
+<img src="Pixie/Screenshots/IMG_7574.PNG" width="250"/>
 
 ---
 
 ### Settings Screen
 
-<img src="Screenshots/IMG_7575.PNG" width="250"/>
+<img src="Pixie/Screenshots/IMG_7575.PNG" width="250"/>
 
 ---
 
